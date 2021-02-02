@@ -1,5 +1,5 @@
-https://www.geeksforgeeks.org/linear-regression-python-implementation/
-https://www.amherst.edu/system/files/media/1287/SLR_Leastsquares.pdf          ----> Solution Pdf
+#https://www.geeksforgeeks.org/linear-regression-python-implementation/
+#https://www.amherst.edu/system/files/media/1287/SLR_Leastsquares.pdf          ----> Solution Pdf
 
 import numpy as np 
 import matplotlib.pyplot as plt 
